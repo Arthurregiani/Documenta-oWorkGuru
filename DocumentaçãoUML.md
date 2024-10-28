@@ -145,7 +145,7 @@ stop
 ![Diagrama de Atividades](./Diagrama%20de%20Atividades.png)
 
 ## Diagrama de Casos de Uso
-```platuml
+```plantuml
 @startuml
 actor Pessoa
 actor Empresa
